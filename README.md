@@ -1,4 +1,4 @@
 # Kindle Highlights App
 
-Frontend code for the Highlights app.
+Frontend code for the Kindle Highlights app.
 
